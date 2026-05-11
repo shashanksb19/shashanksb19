@@ -1,5 +1,27 @@
-# 💫 About Me:
-I am currently working as a Software Engineer at Infoblox, where I design and develop AI-driven automation solutions for enterprise ERP systems.<br>I am actively seeking opportunities to collaborate on AI projects, with a primary focus on:<br>- Fine-tuning Large Language Models (LLMs)<br>- Developing Agentic AI systems and autonomous workflows<br>- Building intelligent automation pipelines for real-world enterprise use cases<br>I bring over 3 years of experience in developing AI-powered ERP automation systems, combining strong technical expertise in machine learning and backend engineering with deep functional knowledge of enterprise finance and ERP workflows. This allows me to design practical, production-ready AI solutions that solve complex business problems.
+## Hey, I'm Shashank 👋
+
+**AI Engineer building agentic systems that actually ship.**
+
+I design and deploy multi-agent orchestration systems, RAG pipelines, and NL-to-SQL engines
+at Infoblox — the kind of AI that eliminates 100-500+ hrs/month of real enterprise work,
+not just demos in notebooks.
+
+**What I build:**
+- Multi-agent systems with async orchestration, LLM routing, and tool-use
+- RAG pipelines over large codebases with hybrid retrieval and semantic search
+- Production AI backends on FastAPI, Azure, and LangGraph
+
+**What I'm exploring:**
+- Fine-tuning LLMs for domain-specific enterprise tasks
+- Autonomous AI workflows with structured reasoning and grounded generation
+- Scaling agentic patterns beyond single-agent loops
+
+**Stack:** Python, FastAPI, OpenAI, Azure OpenAI, LangChain, LangGraph,
+ChromaDB, Azure AI Search, React, PostgreSQL
+
+3+ years shipping AI into production ERP systems.
+Published researcher in multimodal deep learning.
+Always building something new — check the pinned repos below.
 
 
 ## 🌐 Socials:
